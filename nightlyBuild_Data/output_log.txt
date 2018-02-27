@@ -1,0 +1,56 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: R:\DEV\Unity\Projects\CCSV\nightlyBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 144Hz; virtual: 2560x2520 at 0,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.526559 ms
+Start up
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Submitted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Registering User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+lyra125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+apples2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.566550 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.130629 ms (FindLiveObjects: 0.013373 ms CreateObjectMapping: 0.009330 ms MarkObjects: 0.099526 ms  DeleteObjects: 0.007775 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 6380 -> priority: 1 
+  Thread -> id: 4f58 -> priority: 1 
+  Thread -> id: ff8 -> priority: 1 
